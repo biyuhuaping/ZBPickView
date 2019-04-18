@@ -3,11 +3,11 @@
 
 
 封装好的PickView，使用时只需要引用，添加几句代码就可以搞定，极其简单、方便！
-1. 导入头文件：
+## 1. 导入头文件：
 #import "ZBPickView.h"
 
 
-2. 添加代码：
+## 2. 添加代码：
 ```
 //选择年月日
 - (IBAction)buttonAction2:(id)sender {
@@ -31,7 +31,11 @@
 }
 ```
 
-3. 展示效果：<br/>
+## 3. 展示效果：<br/>
 ![ZBPickView.gif](https://img-blog.csdnimg.cn/20190418113941833.gif)
 
 就这么简单就完成了。
+
+<br><br><br>
+简书：https://www.jianshu.com/p/83b0d71df698 <br>
+CSDN：https://blog.csdn.net/biyuhuaping/article/details/89375438
