@@ -1,5 +1,5 @@
 # ZBPickView
-封装UIPickerView，使用时只需要引用，添加几句代码就可以搞定，极其简单、方便！
+ZBPickView是由UIPickerView、UIDatePicker封装，使用时只需要引用，添加几句代码就可以搞定，极其简单、方便！
 
 
 ## 1. 导入头文件：
