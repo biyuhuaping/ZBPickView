@@ -2,7 +2,6 @@
 封装好的PickView，使用时只需要引用，添加几句代码就可以搞定，极其简单、方便！
 
 
-封装好的PickView，使用时只需要引用，添加几句代码就可以搞定，极其简单、方便！
 ## 1. 导入头文件：
 #import "ZBPickView.h"
 
@@ -37,5 +36,5 @@
 就这么简单就完成了。
 
 <br><br><br>
-简书：https://www.jianshu.com/p/83b0d71df698 <br>
+简书：https://www.jianshu.com/p/4b19f16274e7 <br>
 CSDN：https://blog.csdn.net/biyuhuaping/article/details/89375438
